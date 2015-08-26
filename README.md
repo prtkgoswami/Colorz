@@ -1,4 +1,4 @@
-# Colorz
+# Colorz - Desktop App
 This is a Desktop App to convert from Hex to RGB and Vice Versa.
 
 Language: Python
